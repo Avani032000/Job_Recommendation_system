@@ -52,19 +52,16 @@ Hosted on Google Cloud Run for scalability and global accessibility.
 An external IP address is provided for users to access the deployed system online.
 
 Expected Outcomes-
-
 Efficient resume parsing and skill extraction using NLP.
 High-accuracy job recommendations based on KNN-based similarity scoring.
 Scalable web application that allows users to receive job recommendations in real-time.
 Deployment on Google Cloud ensures accessibility and reliability.
 
 Future Enhancements-
-
 Integrating Deep Learning & Large Language Models (LLMs) like GPT for improved skill extraction.
 Real-time labor market trend analysis to refine recommendations.
 Multilingual support for global accessibility.
 Skill gap analysis to suggest relevant learning resources.
 
 Conclusion-
-
 This project leverages Natural Language Understanding, Machine Learning, and Cloud Deployment to create a robust Job Recommendation System. By combining TF-IDF, KNN, and skill extraction techniques, it offers a data-driven, user-centric approach to help job seekers find the most relevant job opportunities efficiently.
